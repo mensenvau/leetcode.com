@@ -7,3 +7,4 @@
 |14|[ Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|[C++](./solutions/14.%20Longest%20Common%20Prefix.cpp)|9 ms|
 |20|[ Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[C++](./solutions/20.%20Valid%20Parentheses.cpp)|4 ms|
 |22|[ Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)|[C++](./solutions/22.%20Generate%20Parentheses.cpp)|0 ms|
+|27|[ Remove Element](https://leetcode.com/problems/remove-element/)|[C++](./solutions/27.%20Remove%20Element.cpp)|5 ms|
